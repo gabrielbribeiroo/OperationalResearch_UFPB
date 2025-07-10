@@ -15,12 +15,12 @@ This repository contains practical exercises and implementations from the **Oper
 
 ## 💻 Languages Used
 
-- **Python**: For implementation of optimization models and algorithmic simulations.
 - **Jupyter Notebook**: For building and testing interactive models.
+- **Python**: For implementation of optimization models and algorithmic simulations.
   
 <div style="display: inline_block"><br>
-  <img align = "top" alt = "Python" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align = "top" alt = "Jupyter Notebook" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img align = "top" alt = "Python" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
   
 ---
