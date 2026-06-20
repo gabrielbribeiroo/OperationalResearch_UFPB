@@ -49,7 +49,3 @@ This repository contains practical exercises and implementations from the **Oper
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-💼 Developed as part of the journey in **Operations Research**, combining theory and applied modeling to solve real-world optimization problems in logistics, finance, and engineering.
