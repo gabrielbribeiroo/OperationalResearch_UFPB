@@ -43,7 +43,7 @@ This repository contains practical exercises and implementations from the **Oper
 - ✅ Graphical method for LP with 2 variables
 - ✅ Duality and sensitivity analysis
 - ✅ Integer Programming (IP) and Mixed-Integer Programming (MIP)
-- ✅ Use of solvers: CBC, GLPK, and Gurobi (where applicable)
+- ✅ Use of solvers: CBC.
 
 ---
 
